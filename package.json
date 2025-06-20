@@ -1,8 +1,17 @@
 {
   "name": "basant-ui",
+  "description": "UI library setup & integration",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "author": {
+    "name": "Basant Rai",
+    "url": "https://www.basantrai.com.np/",
+    "email": "basantrai2486@gmail.com"
+  },
+  "config": {
+    "port": "5173"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
