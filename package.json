@@ -6,7 +6,7 @@
   "type": "module",
   "author": {
     "name": "Basant Rai",
-    "url": "https://www.basantrai.com.np/",
+    "url": "https://basantrai.com.np/",
     "email": "basantrai2486@gmail.com"
   },
   "config": {
@@ -24,7 +24,7 @@
     "formik": "^2.4.6",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "simple_ui_elements": "^1.0.21",
+    "simple_ui_elements": "^1.0.24",
     "tailwind-merge": "^3.3.1",
     "tailwindcss": "^4.1.10",
     "zod": "^3.25.67",
